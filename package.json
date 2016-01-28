@@ -29,7 +29,7 @@
     "apps"
   ],
   "dependencies": {
-    "electron-packager": "github:aminbh111/electron-packager"
+    "electron-packager": "aminbh111/electron-packager"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
